@@ -62,6 +62,5 @@ npm-debug.log
 !/config/**/*.js
 !webpack.config.js
 *.map
-/build
 
 demo-dist/
